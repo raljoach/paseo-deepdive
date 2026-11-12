@@ -16,4 +16,4 @@ the details of that stay, and lastly if need be sending a message to the owner/p
 That's a lot of work!
 
 And it gets worse, when you are looking across many stay search platforms where they're not all necessarily the same   
-or complete with information. Airbnb does an excellent job
+or complete with information.
