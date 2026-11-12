@@ -1,5 +1,5 @@
 # Limitations
-A lot of the limitations of the current implementation of the project are listed as addressable items either in the Implementation plan or in the Backlog, but namely some that come to mind they may or may not be on there are
+A lot of the limitations of the current implementation of the project are listed as addressable items either in the Implementation plan or in the Backlog, but namely some that come to mind that may or may not be on there are
 
 - The use of specific hard-coded travel sites for search. Ideally would love this to be configurable
 - The turn by turn logic is heavily coded deterministically instead of relying on the LLM to handle the conversation flow.   
