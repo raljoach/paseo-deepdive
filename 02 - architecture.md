@@ -65,4 +65,13 @@ it displays what's called a Trip Goal (always at the top of the conversation).
 The Trip Goal shows  what the AI agent has learned from the converation and let's the user know what pieces of information   
 maybe missing in order to proceed to the next step with the actual planning of the trip. It also is a great
 summarizer of the trip, so that when a user goes back into their TripList and selects a previous trip planning     
-conversation they can clearly see what the goal of that session was without having to read the entire conversation.       
+conversation they can clearly see what the goal of that session was without having to read the entire conversation. 
+
+
+So when you look at the ChatPage implementation you can see that I only got as far handling Stays. Why?    
+So if you read my intro, while i was thinking about how to decide on FAST parts of a trip, naturally the first    
+step would be to look at flights and that turned out to be the easy part in my opinion. Why?   
+When it comes to finding flights, a lot of travel sites or apps do a good job of allowing the user    
+to navigate, filter down and select a pretty good flight for their vacation or rather travel.    
+And personally, normally, I can quickly manually narrow down which flight or flights I prefer using the standard    
+method of just searching a travel site myself and getting the flight I want
