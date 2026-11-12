@@ -17,8 +17,8 @@ paseo/
 I'm keeping it minimal for now, but in the future this folder structure probably will expand.    
 
 
-# FAST
-The best way I would like think of the Paseo architecture is it's **FAST**
+# Back-End
+The best way I would like think of the Paseo backend architecture is it's **FAST**
 
 F - flights  
 A - activities  
@@ -64,5 +64,5 @@ it displays what's called a Trip Goal (always at the top of the conversation).
 
 The Trip Goal shows  what the AI agent has learned from the converation and let's the user know what pieces of information   
 maybe missing in order to proceed to the next step with the actual planning of the trip. It also is a great
-summarizer of the trip, so that when a user goes back into their TripList and selects a previous trip planning     
-conversation they can clearly see what the goal of that session was without having to read the entire conversation. 
+summarizer of the trip, so that when a user goes back into their TripList and selects a previous trip planning conversation, they can clearly see what the goal of that session was    
+without having to read the entire conversation. 

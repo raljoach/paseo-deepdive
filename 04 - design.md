@@ -17,3 +17,5 @@ That's a lot of work!
 
 And it gets worse, when you are looking across many stay search platforms where they're not all necessarily the same   
 or complete with information.
+
+Coming back to the design in general, the design approach taken for Stays should similarly be followed for Flights, Activities, Transportation but will require different providers, objectives, contraints, etc, etc.
