@@ -39,7 +39,7 @@ platforms start and also it can be incorporated or integrated into any existing 
 easily testable.
 
 # Front-End
-Inspirted by how I attempted to build Paseo using a coding ai agent (ie Claude Code Pro)   
+Inspired by how I attempted to build Paseo using a coding ai agent (ie Claude Code Pro)   
 https://github.com/raljoach/paseo-agent/blob/main/frontend/AGENTS.md   
 https://github.com/raljoach/paseo-agent/blob/main/frontend/src/main.tsx
 https://github.com/raljoach/paseo-agent/blob/main/frontend/src/App.tsx#L6    
