@@ -21,3 +21,4 @@ There are many more features that I would love Paseo to encompass but they may b
 - Compariing trip options amongs different countries for different parts of the year
 - Planning trips around events, conferences etc
 - Having real-time updates either while on the trip or maybe just updates about parts of the trip that have been updated, so if a host responds to a message regarding a possible stay that you inquired about or if the price has changed up or down regarding a particular part of your FAST itinerary
+- Maybe handling life goals or higher level requests for an escape or adventure or search for a place with better employment etc etc
