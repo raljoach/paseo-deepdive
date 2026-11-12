@@ -57,4 +57,12 @@ It's a very intuitive interface and follows the same pattern as most ai chat pla
 
 
 Starting out brand new, a user would click on New trip and they would be shown a message box on the right where they can    
-enter a query to begin their trip planning.
+enter a query to begin their trip planning.    
+
+The cool thing about this interface is that once a user starts a conversation with the AI agent    
+it displays what's called a Trip Goal (always at the top of the conversation).     
+
+The Trip Goal shows  what the AI agent has learned from the converation and let's the user know what pieces of information   
+maybe missing in order to proceed to the next step with the actual planning of the trip. It also is a great
+summarizer of the trip, so that when a user goes back into their TripList and selects a previous trip planning     
+conversation they can clearly see what the goal of that session was without having to read the entire conversation.       
