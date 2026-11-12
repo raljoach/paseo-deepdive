@@ -13,3 +13,5 @@ A lot of the limitations of the current implementation of the project are listed
 - More agentic tools and data such as research on travel blog sites for vague user queries on what type of travel do they want and where 
   do they want to go etc etc.
 - Cleaning up the Trip goal short description in the Trip list. Right now it's a long string of unwrapped text. Maybe having the LLM summarize it when the trip goal information is saved to the database would be great (and possibly updates if need be if the goal changes signficantly)
+- Metrics and monitoring: There really isn't anything implemented whereby if Paseo was deployed we could measure and track issues or performance. Without this we can't set goals, improve performance, or even get a baseline of where we're at, especially when evaluating a service requires lots of quantitative and qualitative data.
+- How we obtained data needs to be flexible whether it's by cron job, on demand, api call etc etc. This greatly can change the underlying implementation architecture in various ways.
